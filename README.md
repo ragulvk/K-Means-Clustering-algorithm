@@ -60,7 +60,7 @@ print('The cluster group for Applicant Income 9000 and Loanamount 150 :' ,predic
 
 ~~~
 ## Output:
-
+![](s3.png)
 ### Insert your output
 
 <br>
